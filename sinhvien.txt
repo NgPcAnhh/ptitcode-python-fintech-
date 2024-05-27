@@ -1,0 +1,3 @@
+001,Nguyen Ronaldo,TC01,Hanoi
+Tran Messi,TC02,FIFA,FIFA
+Bruno,Bruno,MU,BDN
