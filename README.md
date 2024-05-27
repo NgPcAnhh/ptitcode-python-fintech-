@@ -1,1 +1,1 @@
-# ptitcode-python-fintech-
+ptitcode/fintech/python
